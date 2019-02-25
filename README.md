@@ -1,0 +1,2 @@
+# MyFavoriteExt
+My favorite extensions.
